@@ -69,7 +69,7 @@
     },
     "WIKI_MATHJAX": {
       "description": "true or false",
-      "generator": "false"
+      "value": "false"
     },
     "WIKI_JS_HEROKU": {
       "description": "Reserved for Wiki.js use",
