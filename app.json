@@ -67,6 +67,10 @@
       "description": "A long and unique random string used to encrypt sessions",
       "generator": "secret"
     },
+    "WIKI_MATHJAX": {
+      "description": "true or false",
+      "generator": "false"
+    },
     "WIKI_JS_HEROKU": {
       "description": "Reserved for Wiki.js use",
       "generator": "secret"

@@ -139,7 +139,7 @@ git:
 
 features:
   linebreaks: true
-  mathjax: false
+  mathjax: $(WIKI_MATHJAX)
 
 # ---------------------------------------------------------------------
 # External Logging
